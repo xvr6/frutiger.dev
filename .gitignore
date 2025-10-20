@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.DS_Store
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
